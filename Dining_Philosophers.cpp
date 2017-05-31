@@ -1,4 +1,4 @@
-//AUTHOR : Maxime MEHIO 20168146 
+//AUTHOR : LeDieuBisounours
 #include <cstdlib>
 #include <iostream>
 #include <cerrno>
